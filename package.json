@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bigguzman00/os-1-2024b-delete-" 
+    "url": "https://github.com/CassandraPresley/proyecto-final.git" 
   },
   "keywords": [
     "operating",
@@ -21,6 +21,6 @@
     "processes",
     "node"
   ],
-  "author": "bigguzman00",
+  "author": "Cassandra Presley",
   "license": "MIT"
 }
