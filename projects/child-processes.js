@@ -1,9 +1,4 @@
-/*
-investigar para que sirve 
-spawn 
-exec
-fork 
-*/
+
 import {spawn, exec, fork } from  'child_process'  
  
  export function chilprocesses(){
