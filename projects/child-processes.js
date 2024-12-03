@@ -1,6 +1,5 @@
 
-import {spawn, exec, fork } from  'child_process'  
- 
+
  export function chilprocesses(){
     console.log("=== creacion de procesos hijo===");
     console.log("📢creando un child processes");  
