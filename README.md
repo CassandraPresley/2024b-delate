@@ -1,6 +1,5 @@
 # 1-2024b-eliminar
-![ITGAM](https://github.com/user-attachments/assets/b6cd2013-625a-4b62-8a4d-b3f9eb53360f)
-
+![ITGAM](https://github.com/user-attachments/assets/023fb54e-de50-4777-9a70-736eca08d52d)
 ## Descripción
 Proyecto Final de la Materia de Sistemas Operativos I 💗
 # ⭐Autor 
